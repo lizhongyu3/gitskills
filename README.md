@@ -1,6 +1,7 @@
 # gitskills
 hello world
 
+one line
 Creating a new branch is quick and simple
 ADD MERGE
 <<<<<<< HEAD
